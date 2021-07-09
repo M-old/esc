@@ -1,0 +1,22 @@
+.navigation_bar {
+  display: flex;
+  color: #c4baaf;
+}
+.left_bar {
+  display: flex;
+}
+.right_bar {
+  display: flex;
+}
+.navigation_bar_element {
+  font-size: 13px;
+  margin: 15px;
+}
+.space {
+  margin-right: 1550px;
+}
+
+#nav_open_color {
+  display: inline;
+  color: #37cc71;
+}

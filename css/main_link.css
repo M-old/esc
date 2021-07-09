@@ -1,0 +1,20 @@
+.main_link {
+  display: flex;
+  justify-content: center;
+}
+.nav_link {
+  margin-bottom: 30px;
+  text-decoration: none;
+  padding: 0px 15px;
+  border-right: solid 1px #666666;
+}
+.nav_link:last-child {
+  border-right: none;
+}
+
+.nav_link:link {
+  color: #d3d3d3;
+}
+.nav_link:visited {
+  color: #d3d3d3;
+}

@@ -1,0 +1,11 @@
+.welcome_text {
+  display: inline;
+  color: #666666;
+  font-size: 14px;
+}
+
+.strong {
+  display: inline;
+  font-weight: bold;
+  font-size: 14px;
+}

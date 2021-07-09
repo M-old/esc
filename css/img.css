@@ -1,0 +1,15 @@
+.body_img {
+  display: flex;
+  justify-content: center;
+}
+.finger {
+  margin: 200px 0px 100px 0px;
+  height: 150px;
+  width: 150px;
+}
+
+.helloworld {
+  display: flex;
+  justify-content: center;
+  color: #666666;
+}
