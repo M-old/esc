@@ -18,5 +18,13 @@
 
 #nav_open_color {
   display: inline;
-  color: #37cc71;
+  color: #2ecc7a;
+}
+
+.nav_a_color {
+  color: #a6b6c5;
+}
+
+#header_color {
+  color: white;
 }
