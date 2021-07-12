@@ -7,3 +7,11 @@
 @import "img.css";
 @import "welcome_text.css";
 @import "main_body.css";
+
+html {
+  position: relative;
+}
+
+body {
+  position: fixed;
+}
