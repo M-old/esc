@@ -1,0 +1,12 @@
+.main_body {
+  margin: 0px 470px;
+  border: solid 1px rgb(0, 0, 0, 0.2);
+  border-top: none;
+  border-bottom: none;
+  height: 100vh;
+  padding: 0px 100px;
+}
+
+body {
+  height: 100vh;
+}
